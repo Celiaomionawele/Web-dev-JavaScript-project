@@ -1,0 +1,28 @@
+.main {
+	width: 300px;
+	height: 400px;
+	background-image: url('../images/read.png');
+	/*background-position: center;*/
+	background-blend-mode: lighten;
+	border-radius: 5px;
+	border: 2px solid;
+
+}
+
+#increment_btn {
+	background-color: green;
+	color: white;
+	font-size: 18px;
+}
+
+#save_btn {
+	background-color: gold;
+	color: white;
+	font-size: 18px;
+}
+
+#clear_btn{
+	background-color: maroon;
+	color: white;
+	font-size: 18px;
+}
